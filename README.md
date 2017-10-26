@@ -2,7 +2,7 @@
 
 # Beginners JavaScript Workshop
 
-## What is this?
+## What is this?  AN INTRODUCTION TO FORKING!!!
 
 This is an introductory workshop to JavaScript. You'll be learning the fundamentals of JavaScript, and completing some mini-challenges along the way.
 
